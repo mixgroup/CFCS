@@ -9,3 +9,5 @@ Features:
 * Two rating scales: fivstar (5-star) and trimoji (3 emojis - Good, Ok and Bad) (Configurable in Config
 * Feedback Insights right in the game
 
+#### Special thanks
+[@kercig](https://github.com/kercig)
